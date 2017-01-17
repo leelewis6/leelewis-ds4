@@ -4,7 +4,7 @@ Follow this as a guide to completing the project design writeup. The questions f
 
 ### Project Problem and Hypothesis
 * What's the project about? What problem are you solving?
-    This project is in the field of real estate. Given several features,the goal is to predict the sales price of homes sold in Ames, Iowa from 2006 to 2010 
+    * This project is in the field of real estate. Given several features,the goal is to predict the sales price of homes sold in Ames, Iowa from 2006 to 2010 
 
 * Where does this seem to reside as a machine learning problem? Are you predicting some continuous number, or predicting a binary value?
     This is a regression problem. I'm predicting a continuous number - Sales Price. 
